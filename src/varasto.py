@@ -1,4 +1,4 @@
-class Varasto:
+class Varastor:
     def __init__(self, tilavuus, alku_saldo = 0):
         if tilavuus > 0.0:
             self.tilavuus = tilavuus
