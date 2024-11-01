@@ -1,2 +1,1 @@
-# ohtuvarasto
-Ohjelmistotuotanto kurssin repo 1
+https://github.com/kimtakala/ohtuvarasto/workflows/CI/badge.svg
