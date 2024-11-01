@@ -63,7 +63,3 @@ class TestVarasto(unittest.TestCase):
         print(self.varasto)
         self.varasto.lisaa_varastoon(2)
         print(self.varasto)
-    
-    def test_unused(self):
-        pass
-    
