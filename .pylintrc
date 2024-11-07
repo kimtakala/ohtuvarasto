@@ -17,7 +17,18 @@ missing-function-docstring,
 missing-class-docstring
 
 [FORMAT]
+require-blank-line-before-function = yes
+require-blank-line-before-class = yes
+max-line-length = 80
 
 [REFACTORING]
+max-nested-blocks = 2
 
 [DESIGN]
+max-statements = 15
+
+[DOCSTRING]
+docstring-min-length = 10
+
+[NAMING]
+class-naming-style = capitalized
