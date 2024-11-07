@@ -4,21 +4,9 @@ ignore=tests
 
 [MESSAGE CONTROL]
 
-disable=raw-checker-failed,
-bad-inline-option,
-locally-disabled,
-file-ignored,
-suppressed-message,
-useless-suppression,
-deprecated-pragma,
-use-symbolic-message-instead,
-missing-module-docstring,
-missing-function-docstring,
-missing-class-docstring
+disable=raw-checker-failed, bad-inline-option, locally-disabled, file-ignored, suppressed-message, useless-suppression, deprecated-pragma, use-symbolic-message-instead, missing-module-docstring, missing-function-docstring, missing-class-docstring
 
 [FORMAT]
-require-blank-line-before-function = yes
-require-blank-line-before-class = yes
 max-line-length = 80
 
 [REFACTORING]
@@ -31,4 +19,4 @@ max-statements = 15
 docstring-min-length = 10
 
 [NAMING]
-class-naming-style = capitalized
+class-naming-style = PascalCase
