@@ -60,7 +60,6 @@ def ota2(mehua):
 def main():
     mehua = Varasto(100.0)
     olutta = Varasto(100.0, 20.2)
-    #this is a loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong liiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiineeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 
     print1(mehua, olutta)
 
